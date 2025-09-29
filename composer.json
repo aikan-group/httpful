@@ -1,7 +1,7 @@
 {
-  "name": "nategood/httpful",
+  "name": "aikan-group/httpful",
   "description": "A Readable, Chainable, REST friendly, PHP HTTP Client",
-  "homepage": "http://github.com/nategood/httpful",
+  "homepage": "http://github.com/aikan-group/httpful",
   "license": "MIT",
   "keywords": [
     "http",
@@ -12,13 +12,6 @@
     "requests"
   ],
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "Nate Good",
-      "email": "me@nategood.com",
-      "homepage": "http://nategood.com"
-    }
-  ],
   "require": {
     "php": ">=8.1",
     "ext-curl": "*"
